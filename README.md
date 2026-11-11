@@ -4,7 +4,7 @@ Instaladores do **[Qyrex](https://github.com/PQueirozDev/Qyrex)** (antigo QrzSpa
 
 **[⬇ Baixar a versão mais recente](https://github.com/PQueirozDev/QrzSpace-releases/releases/latest)** → `Qyrex-Setup-<versão>.exe`
 
-- Site: https://qyrexapp.vercel.app
+- Site: https://qyrex.pqueirozdev.com.br
 - Código-fonte (MIT): https://github.com/PQueirozDev/Qyrex
 - Depois de instalado, o Qyrex se atualiza sozinho a partir deste repositório (por isso ele mantém o nome antigo).
 - Cada download é conferido pelo SHA-512 publicado no `latest.yml` da release; um arquivo adulterado é descartado.
